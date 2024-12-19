@@ -1,9 +1,90 @@
-<h1 align="center">Hi 👋, I'm Ahsan Ghafoor</h1> <h3 align="center">A passionate MERN Stack Developer</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahsanghafoor&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanghafoor" /> </p> <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=ahsanghafoor" alt="ahsanghafoor" /> </a> </p>
+# Hi there! 👋 I'm **M Ahsan Ghafoor**
 
-👨‍💻 Checkout my portfolio [https://ahsanghafoor-portfolio.netlify.app/]
+Welcome to my GitHub profile! 🚀 I'm a passionate **Full Stack MERN Developer** with a focus on building dynamic, scalable, and user-friendly web applications. I thrive on solving complex problems and crafting seamless user experiences.
 
-💬 Ask me about Reactjs, Nextjs, Node.js, Express, MongoDB
+---
 
-📫 How to reach me ahsanghafoor2016@gmail.com
+## 🧑‍💻 About Me
+- 🌟 **Title**: Full Stack MERN Developer  
+- 🎯 **Passion**: Turning ideas into impactful digital solutions.  
+- 💻 **Expertise**: Frontend & Backend Development, API Integration, Cloud Services.  
+- 🌱 **Learning**: Exploring new tech in DevOps, Web3, and AI.  
 
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/ahsanghafoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahsanghafoor" height="30" width="40" /></a> <a href="https://twitter.com/ahsanghafoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahsanghafoor" height="30" width="40" /></a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p> <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsanghafoor&show_icons=true&locale=en&layout=compact" alt="ahsanghafoor" /> </p> <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsanghafoor&show_icons=true&locale=en" alt="ahsanghafoor" /> </p> <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanghafoor&" alt="ahsanghafoor" /> </p>
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+- **Languages**: HTML5, CSS3, JavaScript (ES6+)
+- **Libraries/Frameworks**: ReactJS, Redux, MUI, SCSS, Bootstrap, TailwindCSS
+
+### **Backend**
+- **Languages**: NodeJS
+- **Frameworks**: ExpressJS
+- **API Development**: REST APIs, WebSockets, Socket.io
+
+### **Databases**
+- MongoDB, MySQL
+
+### **DevOps & Cloud**
+- AWS (SES, SNS, CloudWatch)
+- Git, CI/CD, GitHub Actions
+
+---
+
+## 🌟 Key Skills
+- Building scalable **REST APIs**.
+- Designing clean, responsive **UIs** with ReactJS and MUI.
+- Real-time data handling using **Socket.io**.
+- Integrating robust cloud solutions with **AWS**.
+- Optimizing performance and debugging complex systems.
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahsanghafoor&show_icons=true&theme=radical" alt="Ahsan's GitHub stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanghafoor&theme=radical" alt="Ahsan's GitHub Streak" width="48%">
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🔗 [EventVibe](https://ahsanghafoor-portfolio.netlify.app/projects/eventvibe)
+> Event listing platform with integrated Google Analytics for traffic insights.  
+**Tech Stack**: NextJS, Tanstack Query, NodeJS, MySQL, AWS  
+
+### 🔗 [DJ Management System](https://ahsanghafoor-portfolio.netlify.app/projects/dj-management)
+> Manage events and media promotions with advanced tracking features.  
+**Tech Stack**: ReactJS, Redux, NodeJS, ExpressJS, AWS  
+
+### 🔗 [Modern Poker Club](https://ahsanghafoor-portfolio.netlify.app/projects/poker-club)
+> Real-time multiplayer poker game with live updates and admin controls.  
+**Tech Stack**: ReactJS, Socket.io, ExpressJS, MongoDB  
+
+Check out my [Portfolio](https://ahsanghafoor-portfolio.netlify.app/) for more! 🚀
+
+---
+
+## 📫 Let's Connect!
+- 🌐 **Portfolio**: [ahsanghafoor-portfolio.netlify.app](https://ahsanghafoor-portfolio.netlify.app/)  
+- 💼 **LinkedIn**: [linkedin.com/in/ahsanghafoor](https://www.linkedin.com/in/ahsanghafoor/)  
+- 🧑‍💻 **GitHub**: [github.com/ahsanghafoor](https://github.com/ahsanghafoor)  
+- ✉️ **Email**: [ahsanghafoor2016@gmail.com](mailto:ahsanghafoor2016@gmail.com)  
+
+---
+
+## 🏆 Achievements
+- Successfully implemented **real-time updates** in multiplayer applications.
+- Built scalable web applications from scratch with **100% user satisfaction**.
+- Integrated **AWS Cloud Services** for enhanced application reliability.
+
+---
+
+### 🌟 Fun Fact
+When I'm not coding, you can find me exploring new tech trends, playing online strategy games, or mentoring aspiring developers.
+
+---
+
+Feel free to connect and collaborate! Let's build something incredible together. 🚀
