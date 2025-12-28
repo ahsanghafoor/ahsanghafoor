@@ -35,11 +35,33 @@ I’m a **Full-Stack Software Engineer with 3+ years of experience** building sc
 
 ## 🧠 Core Expertise
 
-Frontend: React.js, Next.js, Redux, TanStack Query, Tailwind CSS, Material UI  
-Backend: Node.js, Express.js, Django, REST APIs, GraphQL, Socket.io  
-Databases: MongoDB, PostgreSQL, MySQL, DynamoDB, Redis  
-Cloud & DevOps: AWS (EC2, ECS, Lambda, SES, SQS, SNS), Docker, CI/CD  
-AI / ML: RAG Systems, LangChain, Vector Embeddings, OpenAI API  
+### 🎨 Frontend Engineering
+- **React.js**, **Next.js** (SSR, SSG, modern routing)
+- State & data management with **Redux** and **TanStack Query**
+- UI systems: Tailwind CSS, SaSS, Material UI, ShadCN, Bootstrap  
+- Performance optimization, SEO, and accessible component design
+
+### 🛠 Backend & API Development
+- **Node.js**, **Express.js**, **Django**
+- RESTful APIs and **GraphQL** services
+- Real-time communication using **Socket.io**
+- Secure authentication and authorization patterns
+
+### 🗄 Databases & Data Management
+- **MongoDB**, **PostgreSQL**, **MySQL**, **DynamoDB**
+- **Redis** for caching and performance tuning
+- Schema design, indexing, and query optimization
+
+### ☁️ Cloud, DevOps & Infrastructure
+- **AWS**: EC2, ECS, Lambda, SES, SQS, SNS
+- Containerization with **Docker**
+- CI/CD pipelines and cloud monitoring
+
+### 🤖 AI & Intelligent Systems
+- **Retrieval-Augmented Generation (RAG) systems**
+- **LangChain** and **OpenAI API**
+- Vector embeddings and semantic search
+- AI-driven workflows and document intelligence
 
 ---
 
@@ -89,16 +111,6 @@ AI / ML: RAG Systems, LangChain, Vector Embeddings, OpenAI API
 ### 🔥 Contribution Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ahsanghafoor&theme=github-dark&hide_border=true" />
-</p>
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahsanghafoor&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-### 🧩 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanghafoor&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ### 📉 Contribution Graph
